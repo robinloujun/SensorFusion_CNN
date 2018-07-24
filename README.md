@@ -1,5 +1,5 @@
-# MA_SensorFusion_CNN
-This is the Repository for my Master Thesis with the theme "Sensor Fusion through Feature Embedding in Convolutional Neural Networks". The work would be edited combined in English and German.
+# SensorFusion_CNN
+This is the Repository for the project with the theme "Sensor Fusion through Feature Embedding in Convolutional Neural Networks".
 
 # Architecture
 ### 1. Literature
@@ -40,6 +40,11 @@ State of the Art
 #### Daten record
 
 -----
+#### Quick Guide
+[WSG50-ROS-pkg](https://code.google.com/archive/p/wsg50-ros-pkg/)
+
+[User Guide for rviz](http://wiki.ros.org/rviz/UserGuide)
+
 [cheat sheet for Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 [cheat sheet for Vim](https://vim.rtorr.com/)
