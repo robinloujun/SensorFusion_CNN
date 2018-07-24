@@ -1,0 +1,12 @@
+### laim_cap.py ###
+Startet bei Ausführung in Shell ($python capture.py) eine Vorschau des RGBD-Streams der SR300.
+Skript legt Ordner mit Datum an und speichert in Unterordner "grasp" und "not_grasp".
+Bilder
+- type: png
+- width: 640
+- height: 480
+Befehle in Vorschau per Tastendruck:
+
+q Schließt Fenster und beendet Skript
+r Startet Aufnahme und beendet diese bei erneutem Drücken
+w während gedrückt -> Bilder werden als "1" gelabelt, anderenfalls als "0"
